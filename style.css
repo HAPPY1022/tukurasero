@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color:white;
+    font-size:3em;
+    text-align:center;
+    margin-top:20%;
+    font-family:sans-serif;
+}
+.char {
+    display:block;
+    margin:10px 0;
+    opacity:0;
+    transition:opacity 0.5s;
+}
